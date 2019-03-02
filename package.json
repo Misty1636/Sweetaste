@@ -30,6 +30,7 @@
     "minimist": "^1.2.0"
   },
   "dependencies": {
-    "bootstrap": "^4.2.1"
+    "bootstrap": "^4.3.1",
+    "gulp-update": "0.0.2"
   }
 }

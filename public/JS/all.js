@@ -11,7 +11,7 @@ jQuery(document).ready(function($) {
 	});
 
 	$(".invoice").click(function(ev) {
-		$(this).addClass('active').siblings().removeClass('active');
-	});
+    $(this).addClass('active').siblings().removeClass('active');
+  });
 
 });
