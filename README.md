@@ -1,5 +1,6 @@
 # Sweetaste 
 ### Demo https://misty1636.github.io/Sweetaste/
+#### 使用bootstrap + scss + gulp
 
 + 1
 ![index](https://user-images.githubusercontent.com/47848363/57984636-5a471d00-7a90-11e9-82e3-04f28be267a8.png)
